@@ -8,7 +8,12 @@ body {
     position: relative;
 }
 
-#player{
+#player {
     background-color: saddlebrown;
+    position: absolute;
+}
+
+.obstacle {
+    background-color: darkred;
     position: absolute;
 }
